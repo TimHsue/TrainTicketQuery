@@ -20,24 +20,25 @@ SMTP_port = 465
 Run it.
 You can see:
 1.init
-![image](https://raw.githubusercontent.com/TimHsue/TrainTicketSub/master/screenshot/1.png)
+![image](https://raw.githubusercontent.com/TimHsue/TrainTicketQuery/master/screenshot/1.png)
 
 Then if you want to subscribe a new train, type in 'new', you will see:
 2.new
-![image](https://raw.githubusercontent.com/TimHsue/TrainTicketSub/master/screenshot/2.png)
+![image](https://raw.githubusercontent.com/TimHsue/TrainTicketQuery/master/screenshot/2.png)
 
 Here is all the subscriptions:
 3.status
-![image](https://raw.githubusercontent.com/TimHsue/TrainTicketSub/master/screenshot/3.png)
+![image](https://raw.githubusercontent.com/TimHsue/TrainTicketQuery/master/screenshot/3.png)
 
 If you want to unsubscribe a train, you can type in 'kill', then you will see:
 4.del
-![image](https://raw.githubusercontent.com/TimHsue/TrainTicketSub/master/screenshot/4.png)
+![image](https://raw.githubusercontent.com/TimHsue/TrainTicketQuery/master/screenshot/4.png)
 
 After xxdone you will see in your target email:
 5.response
-![image](https://raw.githubusercontent.com/TimHsue/TrainTicketSub/master/screenshot/5.png)
+![image](https://raw.githubusercontent.com/TimHsue/TrainTicketQuery/master/screenshot/5.png)
 
 
 # Attention!
 Python should support the https service
+DONT DEL 'IN'
